@@ -13,6 +13,6 @@ This repository contains my foundational C++ programs, covering arrays, loops, f
 - VS Code
 - g++
 
-## 📊 Badges
-![GitHub repo size](https://img.shields.io/github/repo-size/Dhairya-Nagpaal-006/My-Cpp-Programming)
+![Repo Size](https://img.shields.io/github/repo-size/Dhairya-Nagpal-006/My-Cpp-Programming)
 ![Last Commit](https://img.shields.io/github/last-commit/Dhairya-Nagpal-006/My-Cpp-Programming)
+![License](https://img.shields.io/github/license/Dhairya-Nagpal-006/My-Cpp-Programming)
