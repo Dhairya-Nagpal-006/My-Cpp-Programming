@@ -1,6 +1,7 @@
 # C++ Basics and Projects 🚀
 
 This repository contains my foundational C++ programs, covering arrays, loops, functions, OOP, and more.
+![Typing Code](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 📁 Folder Structure
 - `01_arrays_loops/`
